@@ -1,0 +1,14 @@
+layout_spectrum: 0.05218041
+color:
+  saturation: 0.6545396
+  lightness: 0.5733902
+  brandStrength: 0.8871048
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#3F4040'
+    - '#808080'
+    - '#056839'
+  rhythmicContrast: 0.9253538
+typography_spectrum: 0.3841958
+name: fmillsmusic
