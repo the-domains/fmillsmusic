@@ -1,26 +1,26 @@
-color:
-  saturation: 0.6545396
-  brandStrength: 0.8871048
-  rhythmicContrast: 0.9253538
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#3F4040'
-    - '#808080'
-    - '#056839'
-  lightness: 0.5733902
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.05218041
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.6545396
+  brandStrength: 0.8871048
+  lightness: 0.3853047
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#3F4040'
+    - '#808080'
+    - '#056839'
+  rhythmicContrast: 0.8602151
 typography_spectrum: 0.3841958
+layout_spectrum: 0.7867383
 name: fmillsmusic
