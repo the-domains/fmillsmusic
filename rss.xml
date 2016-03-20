@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[F. Mills website ]]></title>
         <description><![CDATA[F. Mills website ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fmillsmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 21:56:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 01:25:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fmillsmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#1 Rap artist in San Jose, CA]]></title>
+            <description><![CDATA[<article><h1>#1 Rap artist in San Jose, CA</h1><p>F. Mills | ReverbNation</p></article>]]></description>
+            <link>https://thegrid.ai/fmillsmusic/1-rap-artist-in-san-jose-ca/index.html</link>
+            <guid isPermaLink="false">e6fb77d0-fea5-44f9-9abe-a4e4149bfeb5</guid>
+            <pubDate>Sun, 20 Mar 2016 01:25:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[F. Mills Facebook page ]]></title>
             <description><![CDATA[<article><h1>F. Mills Facebook page </h1><p>F. Mills Facebook page</p></article>]]></description>
-            <link>undefinedf-mills-facebook-page/index.html</link>
+            <link>https://thegrid.ai/fmillsmusic/f-mills-facebook-page/index.html</link>
             <guid isPermaLink="false">5b8800d5-8b11-46eb-a5a8-6fa7bb05827a</guid>
             <pubDate>Sat, 19 Mar 2016 21:56:26 GMT</pubDate>
         </item>
