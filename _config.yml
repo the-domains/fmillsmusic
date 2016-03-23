@@ -1,41 +1,41 @@
-name: fmillsmusic
-favicon: null
-layout_spectrum: 0.7867383
-typography_spectrum: 0.3841958
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.7867383
 title: 'F. Mills website '
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.6545396
+  brandStrength: 0.8871048
+  rhythmicContrast: 0.8602151
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#3F4040'
     - '#808080'
     - '#056839'
-  brandStrength: 0.8871048
   lightness: 0.3853047
-  saturation: 0.6545396
-  rhythmicContrast: 0.8602151
 purpose: []
+favicon: null
+name: fmillsmusic
+typography_spectrum: 0.3841958
