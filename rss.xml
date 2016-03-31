@@ -4,8 +4,15 @@
         <description><![CDATA[F. Mills  ]]></description>
         <link>https://thegrid.ai/fmillsmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 05:01:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 05:01:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fmillsmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buffet]]></title>
+            <description><![CDATA[<article><h1>Buffet</h1><p>F. Mills on Instagram: “Buffet. #trekgang #hustlegang #fmills #fmillionaire #chicagorapper #rapartist #music #rapradar #hiphop #mymixtapez #chicago #atl #la #shade45 #indieartist #Vegas #california #lostfiles #buffet #usversusthem #pinkdolphin”</p></article>]]></description>
+            <link>https://thegrid.ai/fmillsmusic/buffet/index.html</link>
+            <guid isPermaLink="false">8a1ee018-eebd-451b-823b-80e96421bd15</guid>
+            <pubDate>Thu, 31 Mar 2016 05:00:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Viva...]]></title>
             <description><![CDATA[<article><h1>Viva...</h1><p>Viva... #TrekGang #hustlegang #fmills #fmillionaire #chicagorapper #rapartist #music #rapradar #hiphop #mymixtapez #chicago #atl #la #shade45 #indieartist #vegas #california</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f77c65709f2254775d86316faf89b10331f329ce.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>0-100 TrekGang freestyle </h1><p>Check out "0-100 freestyle [Trek Gang remix] " by F. Mills</p></article>]]></description>
             <link>https://thegrid.ai/fmillsmusic/0-100-trekgang-freestyle/index.html</link>
             <guid isPermaLink="false">b54aa3ee-d50b-4bab-9ae2-0dd04b772f31</guid>
-            <pubDate>Wed, 23 Mar 2016 19:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://soundcloud.com/fmillionaire/pray-for-em-trek-gang-rmx</p>]]></description>
-            <link>https://thegrid.ai/fmillsmusic/httpssoundcloudcomfmillionairepray-for-em-trek-gang-rm/index.html</link>
-            <guid isPermaLink="false">8d98a79e-259f-4e49-ba7f-a8bc6cafa7b9</guid>
             <pubDate>Wed, 23 Mar 2016 19:15:00 GMT</pubDate>
         </item>
     </channel>
