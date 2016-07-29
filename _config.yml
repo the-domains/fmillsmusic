@@ -1,7 +1,7 @@
 name: fmillsmusic
 favicon: null
-layout_spectrum: 0.11955
-typography_spectrum: 0.74895
+layout_spectrum: 0.26091
+typography_spectrum: 0.62504
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#808080'
     - '#056839'
   brandStrength: 0.5
-  lightness: 0.75
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
